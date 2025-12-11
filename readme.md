@@ -1,4 +1,4 @@
-使用说明：
+## 使用说明：
 
   - 先将域名解析到服务器，再运行脚本。
   - 如需部署新静态站点：rsync -av --delete /path/to/out/ root@<server>:/
